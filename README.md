@@ -1,6 +1,6 @@
 # Data Cleaning Script for Pionex CSV Files
 
-![RobotClean](RobotClean.png)
+![CleanData](CleanData.png)
 
 Here’s a comprehensive, step-by-step guide for using the Python code for data cleaning. This guide explains each part of the code, covering setup, data loading, processing steps, and saving the results. You can follow these steps to clean and organize your dataset on Google Colab.
 
